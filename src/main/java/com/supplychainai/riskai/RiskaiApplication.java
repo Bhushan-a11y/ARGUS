@@ -7,7 +7,7 @@ import org.springframework.boot.context.properties.EnableConfigurationProperties
 import org.springframework.scheduling.annotation.EnableAsync;
 
 @SpringBootApplication
-@EnableConfigurationProperties(NewsApiData.class)
+@ConfigurationPropertiesScan 
 public class RiskaiApplication {
 
 public static void main(String[] args) {
