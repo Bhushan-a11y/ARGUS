@@ -32,7 +32,7 @@ public class DocsStorageService {
     {
         LocalDate today = LocalDate.now();
         Path dateDir = rootPath.resolve(
-            today.getYear() + File.separator + 
+            today.getYear() + File.separator + //12  05
             String.format("%02d",today.getMonthValue()) + File.separator + 
             String.format("%02d",today.getDayOfMonth())
         );
@@ -68,6 +68,15 @@ public class DocsStorageService {
         }
         return new UrlResource(filePath.toUri());
 
+    }
+
+    public Path resolvePath(String relativePath) {
+        Path filePath = rootPath.resolve(relativePath).normalize().toAbsolutePath();
+        Path allowedPath = rootPath.normalize().toAbsolutePath();
+        if (!filePath.startsWith(allowedPath)) {
+            throw new SecurityException("Access Denied: Path traversal detected");
+        }
+        return filePath;
     }
 
 }

@@ -37,7 +37,7 @@ public class DocsPortalController {
     }
     @PostMapping("/api/supplier/docs/upload")
     public ResponseEntity<?> uploadDocs(@RequestParam("file") MultipartFile file, @AuthenticationPrincipal  Jwt jwt) {
-        System.out.println("UPLOAD CONTROLLER REACHED");
+        System.out.println("UPLOAD CONTROLLER REACHED");//logs
         System.out.println("Role : "+jwt.getClaimAsString("role"));
         if (jwt == null || !"SUPPLIER".equals(jwt.getClaimAsString("role"))) {
             return ResponseEntity.status(HttpStatus.FORBIDDEN).build();
