@@ -1,0 +1,8 @@
+services:
+  rapidocr-sidecar:
+    build:
+      context: ./ocr-sidecar
+    container_name: rapidocr-sidecar
+    ports:
+      - "9090:9090"
+    restart: unless-stopped
