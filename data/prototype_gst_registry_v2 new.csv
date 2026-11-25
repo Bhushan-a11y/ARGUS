@@ -1,0 +1,26 @@
+gstin,legal_name,trade_name,status,state,registration_date,taxpayer_type,source,dataset_version,last_updated
+27AABCA1234C1ZF,Apex Precision Components Private Limited,Apex Precision Engineering,ACTIVE,Maharashtra,2017-08-15,Regular,PROTOTYPE_CSV,v1.1,2026-11-24T18:00:00Z
+29AABDR0123T1ZZ,Falcon Petrochem Industries Private Limited,Falcon Petrochem,ACTIVE,Karnataka,2021-06-25,Regular,PROTOTYPE_CSV,v1.1,2026-11-24T18:00:00Z
+27AABDP8901R1ZR,Thane Industrial Solvents Private Limited,Thane Solvents,ACTIVE,Maharashtra,2020-07-22,Regular,PROTOTYPE_CSV,v1.1,2026-11-24T18:00:00Z
+24AABCB2345D1ZC,Bharat Agro-Chemical Intermediates Limited,Bharat Agrochem,CANCELLED,Gujarat,2017-09-20,Regular,PROTOTYPE_CSV,v1.1,2026-11-24T18:00:00Z
+36AABDU3456W1ZD,"M/S K.R. Engg., Forgings & Spares","K.R. Engineering, Forgings & Spares",ACTIVE,Telangana,2017-11-20,Regular,PROTOTYPE_CSV,v1.1,2026-11-24T18:00:00Z
+27AABEC1234E1Z5,Ajanta Advanced Ceramics Private Limited,Ajanta Ceramics,ACTIVE,Maharashtra,2023-01-15,Regular,PROTOTYPE_CSV,v1.1,2026-11-24T18:00:00Z
+24AABED2345F1Z2,Girnar Bulk Handling Equipment LLP,Girnar Equipment,ACTIVE,Gujarat,2023-04-10,Regular,PROTOTYPE_CSV,v1.1,2026-11-24T18:00:00Z
+29AABEE3456G1ZJ,Hampi Optical Transceivers Private Limited,Hampi Optics,ACTIVE,Karnataka,2023-08-22,Regular,PROTOTYPE_CSV,v1.1,2026-11-24T18:00:00Z
+33AABEF4567H1ZL,Pallava Technical Non-Wovens LLP,Pallava Non-Wovens,ACTIVE,Tamil Nadu,2023-11-05,Composition,PROTOTYPE_CSV,v1.1,2026-11-24T18:00:00Z
+07AABEG5678J1Z4,Pragati EV Battery Components Private Limited,Pragati EV Components,ACTIVE,Delhi,2024-02-18,Regular,PROTOTYPE_CSV,v1.1,2026-11-24T18:00:00Z
+09AABEH6789K1ZR,Sarvottam Polymer Moulding Technologies Private Limited,Sarvottam Polymers,ACTIVE,Uttar Pradesh,2023-05-14,Regular,PROTOTYPE_CSV,v1.1,2026-11-24T18:00:00Z
+36AABEJ7890L1ZU,Golconda Industrial Robotics & Automation LLP,Golconda Robotics,ACTIVE,Telangana,2023-07-20,Regular,PROTOTYPE_CSV,v1.1,2026-11-24T18:00:00Z
+27AABEK8901M1Z4,Konkan Technical Yarns & Fibres Private Limited,Konkan Yarns,ACTIVE,Maharashtra,2023-09-12,Regular,PROTOTYPE_CSV,v1.1,2026-11-24T18:00:00Z
+24AABEL9012N1ZB,Narmada Specialty Coatings & Adhesives Private Limited,Narmada Coatings,ACTIVE,Gujarat,2024-01-18,Regular,PROTOTYPE_CSV,v1.1,2026-11-24T18:00:00Z
+29AABEM0123P1ZA,Kavveri Metal Castings Private Limited,Kavveri Castings,CANCELLED,Karnataka,2018-04-10,Regular,PROTOTYPE_CSV,v1.1,2026-11-24T18:00:00Z
+33AABEN1234Q1ZC,Pallavan Agro Processing Equipment LLP,Pallavan Equipment,CANCELLED,Tamil Nadu,2019-11-25,Regular,PROTOTYPE_CSV,v1.1,2026-11-24T18:00:00Z
+07AABEP2345R1ZX,Vedic Freight Logistics Private Limited,Vedic Freight,INACTIVE,Delhi,2020-03-15,Regular,PROTOTYPE_CSV,v1.1,2026-11-24T18:00:00Z
+36AABEQ3456S1ZN,Secunderabad Bio-Reagents & Synthetics Private Limited,Secunderabad Bio-Reagents,INACTIVE,Telangana,2020-08-08,Regular,PROTOTYPE_CSV,v1.1,2026-11-24T18:00:00Z
+27AABER4567T1ZD,Maratha Sheet Metal Works LLP,Maratha Sheet Metal,SUSPENDED,Maharashtra,2021-02-14,Regular,PROTOTYPE_CSV,v1.1,2026-11-24T18:00:00Z
+24AABES5678U1ZA,Dwarka Heavy Forgings & Alloys Private Limited,Dwarka Forgings,SUSPENDED,Gujarat,2021-06-22,Regular,PROTOTYPE_CSV,v1.1,2026-11-24T18:00:00Z
+29AABET6789V1ZR,Vijayanagar Electro-Mechanical Components Private Limited,Sunbeam Organic Fruit Orchards,ACTIVE,Karnataka,2022-01-10,Regular,PROTOTYPE_CSV,v1.1,2026-11-24T18:00:00Z
+33AABEU7890W1Z3,Chola Technical Ceramics & Refractories Private Limited,Moonlight Luxury Spa & Resorts,ACTIVE,Tamil Nadu,2022-04-18,Regular,PROTOTYPE_CSV,v1.1,2026-11-24T18:00:00Z
+09AABEV8901X1Z5,"M/S B.R.D. Precision Dies, Tools & Gauges Pvt. Ltd.",BRD TOOLINGS,ACTIVE,Uttar Pradesh,2022-07-25,Regular,PROTOTYPE_CSV,v1.1,2026-11-24T18:00:00Z
+07AABEW9012Y1ZA,Rajdhani Industrial Surface Treatments Private Limited,,ACTIVE,Delhi,2022-10-30,Regular,PROTOTYPE_CSV,v1.1,2026-11-24T18:00:00Z
+36AABEX0123Z1ZK,Warangal Micro-Sensors & Transducers LLP,,ACTIVE,Telangana,2023-03-05,Composition,PROTOTYPE_CSV,v1.1,2026-11-24T18:00:00Z

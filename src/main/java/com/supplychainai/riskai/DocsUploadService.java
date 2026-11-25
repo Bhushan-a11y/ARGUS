@@ -12,6 +12,8 @@ import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;
 
+import com.supplychainai.riskai.service.SupplierDataReconciliationService;
+
 @Service 
 public class DocsUploadService {
 
@@ -21,16 +23,19 @@ public class DocsUploadService {
     private final DocumentRepository documentRepository;
     private final DocumentStorageProperties properties;
     private final DocumentExtractionService extractionService;
+    private final SupplierDataReconciliationService reconciliationService;
 
     public DocsUploadService(
             DocsStorageService docsStorageService,
             DocumentRepository documentRepository,
             DocumentStorageProperties properties,
-            DocumentExtractionService extractionService) {
+            DocumentExtractionService extractionService,
+            SupplierDataReconciliationService reconciliationService) {
         this.docsStorageService = docsStorageService;
         this.documentRepository = documentRepository;
         this.properties = properties;
         this.extractionService = extractionService;
+        this.reconciliationService = reconciliationService;
     }
 
     public DocumentMetadata uploadDocs(MultipartFile file, String ownerId, String ownerName) throws IOException {
@@ -63,8 +68,19 @@ public class DocsUploadService {
 
         extractionService.extractTextAsync(storedFilePath, file.getOriginalFilename())
             .thenAccept(extractedText -> {
-                log.info("Document [{}] extraction completed ({} chars)", savedMetadata.idd(), extractedText.length());
+                log.info("Document [{}] extraction completed ({} chars)", savedMetadata.idd(), extractedText != null ? extractedText.length() : 0);
                 updateExtractedText(savedMetadata.idd(), extractedText, ExtractionStatus.COMPLETED);
+
+                // Connect OCR output to Supplier data layer & GST verification
+                if (extractedText != null && !extractedText.isBlank() && savedMetadata.supplierId() != null) {
+                    try {
+                        Long sId = Long.valueOf(savedMetadata.supplierId());
+                        reconciliationService.reconcileSupplierDocument(sId, extractedText);
+                        log.info("Supplier [{}] profile reconciled successfully from doc [{}]", sId, savedMetadata.idd());
+                    } catch (Exception ex) {
+                        log.error("Failed to reconcile supplier profile for doc [{}]", savedMetadata.idd(), ex);
+                    }
+                }
             })
             .exceptionally(ex -> {
                 log.error("Async extraction failed for document [{}]", savedMetadata.idd(), ex);
