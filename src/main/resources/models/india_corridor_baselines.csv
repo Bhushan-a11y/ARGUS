@@ -1,0 +1,167 @@
+corridor_id,source_state,dest_state,median_delay_minutes,median_log_congestion,share_severe_delay_2h,mean_osrm_distance_km,trip_count
+Andhra Pradesh -> Andhra Pradesh,Andhra Pradesh,Andhra Pradesh,67.5,0.687885186978523,0.16264750686190313,82.61308320958302,383
+Andhra Pradesh -> Karnataka,Andhra Pradesh,Karnataka,30.0,0.4289956055183586,0.0,61.171866666666666,3
+Andhra Pradesh -> Orissa,Andhra Pradesh,Orissa,471.0,1.3403444709280348,1.0,224.65473333333333,3
+Andhra Pradesh -> Telangana,Andhra Pradesh,Telangana,180.0,0.565242748273632,0.8472222222222222,273.01674583333335,17
+Andhra Pradesh -> West Bengal,Andhra Pradesh,West Bengal,192.0,0.4676717199107568,1.0,445.798,1
+Arunachal Pradesh -> Assam,Arunachal Pradesh,Assam,187.5,1.1767383501452175,1.0,104.45245000000001,4
+Assam -> Arunachal Pradesh,Assam,Arunachal Pradesh,66.75,0.6397999667354062,0.15476190476190474,107.65343571428573,23
+Assam -> Assam,Assam,Assam,106.25,0.9739299163649877,0.4282565918929555,104.13303595434868,215
+Assam -> Delhi,Assam,Delhi,2024.0,0.928162537096371,1.0,1807.978370588235,17
+Assam -> Maharashtra,Assam,Maharashtra,1755.0,0.8366953514279393,1.0,1884.13794,5
+Assam -> Meghalaya,Assam,Meghalaya,101.5,0.7030484942080352,0.125,126.7083125,8
+Assam -> Mizoram,Assam,Mizoram,137.5,1.3068697608154842,1.0,72.48635,2
+Assam -> Nagaland,Assam,Nagaland,232.0,1.419520008748211,1.0,103.5959,1
+Assam -> Tripura,Assam,Tripura,214.0,1.0027643298779818,1.0,171.3245,1
+Assam -> West Bengal,Assam,West Bengal,1267.0,1.0443566344861226,1.0,954.0086,1
+Bihar -> Bihar,Bihar,Bihar,151.5,1.2212831196044198,0.5997087627558355,88.38910507952738,340
+Bihar -> Haryana,Bihar,Haryana,603.75,0.7185508180252733,1.0,731.1782805555557,16
+Bihar -> Unknown,Bihar,Unknown,52.0,1.0055218656020977,0.0,42.491800000000005,1
+Chandigarh -> Chandigarh,Chandigarh,Chandigarh,9.0,0.5260930958967791,0.0,13.0254,1
+Chandigarh -> Punjab,Chandigarh,Punjab,37.5,0.7123414026738062,0.09848484848484848,45.81813636363636,47
+Chhattisgarh -> Chhattisgarh,Chhattisgarh,Chhattisgarh,66.0,0.6000567574939334,0.19736842105263158,91.06730745614036,43
+Dadra and Nagar Haveli -> Gujarat,Dadra and Nagar Haveli,Gujarat,35.0,1.252762968495368,0.0,16.592586666666666,15
+Delhi -> Assam,Delhi,Assam,1988.0,0.919623563318517,1.0,1809.2888,1
+Delhi -> Delhi,Delhi,Delhi,28.0,0.8220717937743336,0.11937235744053926,34.43380754327113,210
+Delhi -> Gujarat,Delhi,Gujarat,555.0,0.5882675497394698,1.0,913.56664,5
+Delhi -> Haryana,Delhi,Haryana,42.5,0.5951905712142006,0.13242555656460978,51.26461832562769,396
+Delhi -> Maharashtra,Delhi,Maharashtra,877.0,0.6310796928365292,1.0,1364.559992063492,37
+Delhi -> Punjab,Delhi,Punjab,195.0,0.7115930263506968,1.0,226.1136789473684,21
+Delhi -> Telangana,Delhi,Telangana,1029.0,0.6322011703428653,1.0,1563.067123076923,13
+Delhi -> Unknown,Delhi,Unknown,89.0,0.5246826584274168,0.05555555555555555,141.59636666666668,10
+Delhi -> Uttar Pradesh,Delhi,Uttar Pradesh,126.0,0.745628283488881,0.5454545454545454,246.18191219696973,84
+Delhi -> West Bengal,Delhi,West Bengal,1043.0,0.7070944478759731,1.0,1427.6477687499998,16
+Goa -> Goa,Goa,Goa,117.0,0.7942432974313142,0.6294117647058823,91.71119323529412,34
+Goa -> Karnataka,Goa,Karnataka,260.5,0.645265954922905,0.7916666666666666,268.06953333333325,13
+Goa -> Maharashtra,Goa,Maharashtra,385.5,0.6923270202363325,1.0,483.0276035714286,18
+Gujarat -> Dadra and Nagar Haveli,Gujarat,Dadra and Nagar Haveli,22.0,0.990398704027877,0.0,15.949929411764705,17
+Gujarat -> Daman & Diu,Gujarat,Daman & Diu,32.0,1.363304842895192,0.0,10.2921,1
+Gujarat -> Delhi,Gujarat,Delhi,702.5,0.6074851863723674,1.0,1118.673588888889,18
+Gujarat -> Gujarat,Gujarat,Gujarat,43.25,0.7189702462083871,0.1329155059750877,61.96546324578267,624
+Gujarat -> Haryana,Gujarat,Haryana,550.5,0.6279081437339733,1.0,875.987784375,17
+Gujarat -> Karnataka,Gujarat,Karnataka,815.5,0.6646782021703975,1.0,1193.3586499999997,20
+Gujarat -> Madhya Pradesh,Gujarat,Madhya Pradesh,73.0,0.556696077832088,0.0,136.46506363636365,11
+Gujarat -> Maharashtra,Gujarat,Maharashtra,339.5,0.9573601184708792,1.0,300.92566470588235,24
+Gujarat -> Rajasthan,Gujarat,Rajasthan,224.5,0.7137734723463065,1.0,296.26505,14
+Haryana -> Andhra Pradesh,Haryana,Andhra Pradesh,1180.0,0.6525526692637834,1.0,1728.2115,1
+Haryana -> Bihar,Haryana,Bihar,681.0,0.7144871136441706,1.0,908.7564944444443,21
+Haryana -> Delhi,Haryana,Delhi,38.0,0.5902461624631488,0.13406939765224526,54.279700716006026,311
+Haryana -> Gujarat,Haryana,Gujarat,525.0,0.5898941472416838,1.0,881.4604631578948,23
+Haryana -> Haryana,Haryana,Haryana,62.0,0.6749194043625724,0.2177632423841246,101.78320029508768,871
+Haryana -> Himachal Pradesh,Haryana,Himachal Pradesh,48.0,0.6357964960004576,0.0,58.09245,2
+Haryana -> Jharkhand,Haryana,Jharkhand,750.0,0.6319715844233406,1.0,1192.64115,16
+Haryana -> Karnataka,Haryana,Karnataka,1329.25,0.6206041206183623,1.0,2069.235423484849,47
+Haryana -> Madhya Pradesh,Haryana,Madhya Pradesh,435.0,0.6290951590670949,0.9210526315789473,648.0819684210525,26
+Haryana -> Maharashtra,Haryana,Maharashtra,882.75,0.6508230437035167,1.0,1325.669447222222,22
+Haryana -> Orissa,Haryana,Orissa,1225.0,0.717899403380531,1.0,1638.6532071428571,15
+Haryana -> Punjab,Haryana,Punjab,193.75,0.7473802877226117,0.6670454545454546,200.21009034090903,82
+Haryana -> Rajasthan,Haryana,Rajasthan,135.0,0.5897688261061103,0.6722222222222223,203.8713703174603,70
+Haryana -> Tamil Nadu,Haryana,Tamil Nadu,1385.5,0.6208758551615887,1.0,2190.4944357142863,14
+Haryana -> Telangana,Haryana,Telangana,1187.5,0.6775667125698863,1.0,1621.3589724999997,26
+Haryana -> Unknown,Haryana,Unknown,61.0,1.0090001299784226,0.3333333333333333,53.58643333333333,3
+Haryana -> Uttar Pradesh,Haryana,Uttar Pradesh,129.0,0.8528783196478016,0.5834022038567493,164.79250067493112,93
+Haryana -> Uttarakhand,Haryana,Uttarakhand,134.0,0.6428200532501532,0.7142857142857143,174.87152857142857,9
+Haryana -> West Bengal,Haryana,West Bengal,1073.0,0.7206717582867392,1.0,1428.1484642857142,32
+Himachal Pradesh -> Himachal Pradesh,Himachal Pradesh,Himachal Pradesh,808.0,1.9567048301010699,0.78125,105.99096875000002,18
+Himachal Pradesh -> Punjab,Himachal Pradesh,Punjab,555.25,1.3018130093806,0.875,161.6609875,16
+Jammu & Kashmir -> Jammu & Kashmir,Jammu & Kashmir,Jammu & Kashmir,86.0,1.5380905072042022,0.08333333333333333,36.9294875,13
+Jammu & Kashmir -> Punjab,Jammu & Kashmir,Punjab,203.5,0.6113709141246917,1.0,320.90527499999996,4
+Jharkhand -> Haryana,Jharkhand,Haryana,730.0,0.6608544239758609,1.0,1065.8710833333332,17
+Jharkhand -> Jharkhand,Jharkhand,Jharkhand,145.0,0.9066750509102113,0.6504689754689754,136.1584922186147,143
+Karnataka -> Andhra Pradesh,Karnataka,Andhra Pradesh,80.0,0.5136189216716034,0.2,193.92778,6
+Karnataka -> Delhi,Karnataka,Delhi,1290.5,0.6647670985692764,1.0,1854.59445,14
+Karnataka -> Goa,Karnataka,Goa,102.0,0.6045874957566097,0.25,144.14028000000002,11
+Karnataka -> Gujarat,Karnataka,Gujarat,371.0,0.5619359745911199,1.0,666.8071615384615,13
+Karnataka -> Haryana,Karnataka,Haryana,1222.0,0.6122926883399301,1.0,1905.7377845833332,38
+Karnataka -> Karnataka,Karnataka,Karnataka,33.5,0.6262746231004659,0.09629494242651195,47.22191748772803,2014
+Karnataka -> Kerala,Karnataka,Kerala,264.0,0.5033586745891767,0.8846153846153846,422.19848461538453,19
+Karnataka -> Madhya Pradesh,Karnataka,Madhya Pradesh,1068.0,0.7109318358036731,1.0,1393.9857,3
+Karnataka -> Maharashtra,Karnataka,Maharashtra,483.5,0.5321715895413757,0.85,776.990185,11
+Karnataka -> Punjab,Karnataka,Punjab,1291.0,0.6122727396953719,1.0,2087.7201714285716,17
+Karnataka -> Tamil Nadu,Karnataka,Tamil Nadu,68.75,0.5556313502380077,0.0,123.80019,13
+Karnataka -> Telangana,Karnataka,Telangana,144.5,0.41560525936613385,0.5189393939393939,280.6987037878787,51
+Karnataka -> Unknown,Karnataka,Unknown,32.0,0.5280674302004967,0.0,49.3816,1
+Karnataka -> West Bengal,Karnataka,West Bengal,1165.5,0.7377255313642275,1.0,1485.530911111111,18
+Kerala -> Karnataka,Kerala,Karnataka,269.0,0.6710282996468904,1.0,398.1929617647059,35
+Kerala -> Kerala,Kerala,Kerala,31.75,0.6217428289597996,0.10550768675768675,45.79831850385725,252
+Kerala -> Tamil Nadu,Kerala,Tamil Nadu,99.0,0.45979100647911386,0.0,150.4656,2
+Madhya Pradesh -> Gujarat,Madhya Pradesh,Gujarat,234.0,0.5945894122248716,1.0,388.99262631578944,19
+Madhya Pradesh -> Haryana,Madhya Pradesh,Haryana,394.25,0.6849593738601691,1.0,455.0189849166667,48
+Madhya Pradesh -> Madhya Pradesh,Madhya Pradesh,Madhya Pradesh,88.25,0.9128062541816309,0.32017401790129063,96.94649094835721,251
+Madhya Pradesh -> Maharashtra,Madhya Pradesh,Maharashtra,251.0,0.799482830375978,1.0,298.4901222222222,9
+Madhya Pradesh -> Rajasthan,Madhya Pradesh,Rajasthan,42.0,0.4331375603975013,0.25,86.049725,4
+Madhya Pradesh -> Uttar Pradesh,Madhya Pradesh,Uttar Pradesh,310.0,0.5641462016782449,1.0,572.8578,1
+Maharashtra -> Andhra Pradesh,Maharashtra,Andhra Pradesh,641.0,0.6611995679336626,1.0,912.22044,10
+Maharashtra -> Assam,Maharashtra,Assam,1611.0,0.8809362195360333,1.0,1589.8346,1
+Maharashtra -> Delhi,Maharashtra,Delhi,1090.0,0.7330163403249287,1.0,1366.5232421052633,19
+Maharashtra -> Goa,Maharashtra,Goa,413.0,0.7235284868891141,1.0,511.0764226190476,20
+Maharashtra -> Gujarat,Maharashtra,Gujarat,366.0,0.7367508180420772,1.0,426.3826952380952,33
+Maharashtra -> Haryana,Maharashtra,Haryana,893.25,0.645352150614446,1.0,1340.8221606060606,44
+Maharashtra -> Jharkhand,Maharashtra,Jharkhand,1482.0,0.8329091229351039,1.0,1589.7350333333334,3
+Maharashtra -> Karnataka,Maharashtra,Karnataka,508.0,0.5630940523117475,0.9603174603174602,832.1980674603172,33
+Maharashtra -> Madhya Pradesh,Maharashtra,Madhya Pradesh,323.5,0.8032231841758362,0.5111111111111111,410.97887,23
+Maharashtra -> Maharashtra,Maharashtra,Maharashtra,44.25,0.9472177593396601,0.19196734581647126,58.84440054237269,2406
+Maharashtra -> Punjab,Maharashtra,Punjab,952.0,0.6508388539927041,1.0,1434.3828500000002,15
+Maharashtra -> Tamil Nadu,Maharashtra,Tamil Nadu,644.5,0.6465853262795704,1.0,969.1584642857143,14
+Maharashtra -> Telangana,Maharashtra,Telangana,405.75,0.6520432495976096,1.0,634.7832443181818,52
+Maharashtra -> West Bengal,Maharashtra,West Bengal,1536.0,0.7473667247551157,1.0,1933.6374642857143,9
+Mizoram -> Mizoram,Mizoram,Mizoram,621.0,1.7429343408386604,1.0,186.51095,4
+Nagaland -> Assam,Nagaland,Assam,222.0,1.3663601462190733,1.0,110.81794,5
+Orissa -> Andhra Pradesh,Orissa,Andhra Pradesh,2330.0,2.4884548498440977,1.0,293.3271,1
+Orissa -> Orissa,Orissa,Orissa,80.75,0.8273514060668974,0.3952380952380952,105.10043303030302,96
+Orissa -> West Bengal,Orissa,West Bengal,178.0,0.836327164178982,0.8,191.55804999999998,10
+Pondicherry -> Pondicherry,Pondicherry,Pondicherry,135.0,0.7277685272132017,0.8,149.51003999999998,10
+Pondicherry -> Tamil Nadu,Pondicherry,Tamil Nadu,22.5,0.5595704344046192,0.0,42.5953,2
+Punjab -> Chandigarh,Punjab,Chandigarh,25.5,0.5323509221622973,0.0,44.38796428571429,28
+Punjab -> Delhi,Punjab,Delhi,149.0,0.5907851678983755,1.0,229.0116111111111,9
+Punjab -> Haryana,Punjab,Haryana,228.0,0.7496633970088382,0.8657407407407407,258.2908361111111,45
+Punjab -> Himachal Pradesh,Punjab,Himachal Pradesh,127.0,0.7073318155519017,0.6222222222222221,154.99730888888888,20
+Punjab -> Jammu & Kashmir,Punjab,Jammu & Kashmir,194.0,0.5769683612327727,1.0,313.96605,2
+Punjab -> Karnataka,Punjab,Karnataka,1341.0,0.6247306659674268,1.0,2082.046185,20
+Punjab -> Maharashtra,Punjab,Maharashtra,916.0,0.6684415876153398,1.0,1340.1717066666668,15
+Punjab -> Punjab,Punjab,Punjab,59.5,0.6620460921420684,0.2681833078827964,96.49899131297629,491
+Rajasthan -> Gujarat,Rajasthan,Gujarat,227.0,0.6542719349591327,1.0,366.44217857142854,14
+Rajasthan -> Haryana,Rajasthan,Haryana,140.0,0.6961729014764823,0.7222222222222222,169.44340714285713,51
+Rajasthan -> Madhya Pradesh,Rajasthan,Madhya Pradesh,17.5,0.361111722320727,0.0,73.14783333333332,5
+Rajasthan -> Rajasthan,Rajasthan,Rajasthan,70.75,0.7952985153012848,0.29526717954676873,95.67413454327416,422
+Rajasthan -> Uttar Pradesh,Rajasthan,Uttar Pradesh,9.0,0.07663322602091589,0.0,121.1482,1
+Tamil Nadu -> Andhra Pradesh,Tamil Nadu,Andhra Pradesh,84.0,0.44468582126144574,0.0,186.1704,1
+Tamil Nadu -> Haryana,Tamil Nadu,Haryana,845.0,0.8545150041533092,1.0,866.9906000000001,2
+Tamil Nadu -> Karnataka,Tamil Nadu,Karnataka,151.0,0.5710997461171042,0.6888888888888888,240.68258000000006,31
+Tamil Nadu -> Kerala,Tamil Nadu,Kerala,63.5,0.5403506810507896,0.0,92.6236,2
+Tamil Nadu -> Madhya Pradesh,Tamil Nadu,Madhya Pradesh,698.0,0.7593130413568919,1.0,865.9475666666667,3
+Tamil Nadu -> Maharashtra,Tamil Nadu,Maharashtra,437.0,0.5255895168781878,1.0,851.5198923076922,13
+Tamil Nadu -> Tamil Nadu,Tamil Nadu,Tamil Nadu,38.5,0.7077060371594234,0.05009825775431407,50.67696915875079,1016
+Tamil Nadu -> Telangana,Tamil Nadu,Telangana,261.0,0.5436154465889816,1.0,510.13847307692316,15
+Tamil Nadu -> West Bengal,Tamil Nadu,West Bengal,428.5,0.5399733515685383,1.0,814.08745,2
+Telangana -> Andhra Pradesh,Telangana,Andhra Pradesh,163.75,0.6688923892074157,0.5625,277.62541250000004,11
+Telangana -> Haryana,Telangana,Haryana,646.0,0.7197080981081356,1.0,936.0196181818181,12
+Telangana -> Karnataka,Telangana,Karnataka,132.25,0.48802755737783676,0.678030303030303,294.87092083333334,45
+Telangana -> Madhya Pradesh,Telangana,Madhya Pradesh,704.0,0.7638757869153101,1.0,866.0767166666666,4
+Telangana -> Maharashtra,Telangana,Maharashtra,462.0,0.7348656341272376,1.0,536.002761904762,31
+Telangana -> Orissa,Telangana,Orissa,758.0,0.7093637521491906,1.0,1037.3045,1
+Telangana -> Tamil Nadu,Telangana,Tamil Nadu,194.5,0.5379132549607706,1.0,363.401995,11
+Telangana -> Telangana,Telangana,Telangana,61.75,0.8488785060658198,0.196821448720912,65.73549492565296,655
+Telangana -> Unknown,Telangana,Unknown,99.0,0.9958027948018887,0.0,64.6296,1
+Telangana -> West Bengal,Telangana,West Bengal,826.0,0.7126304975636378,1.0,1134.4584777777777,9
+Unknown -> Delhi,Unknown,Delhi,148.0,0.8128116843160345,0.8,154.15634,5
+Unknown -> Karnataka,Unknown,Karnataka,-4.0,-0.09097177820572676,0.0,49.5545,1
+Unknown -> Unknown,Unknown,Unknown,118.0,0.979067138018327,0.4,84.93114,5
+Unknown -> Uttar Pradesh,Unknown,Uttar Pradesh,63.25,0.5308785740726183,0.16666666666666666,131.25483333333332,8
+Uttar Pradesh -> Delhi,Uttar Pradesh,Delhi,54.5,0.7659862628874321,0.2944444444444444,105.54236214285716,72
+Uttar Pradesh -> Haryana,Uttar Pradesh,Haryana,149.0,0.7164058025934099,0.5363636363636364,191.06301674242425,71
+Uttar Pradesh -> Madhya Pradesh,Uttar Pradesh,Madhya Pradesh,308.0,0.9739661997693161,1.0,195.07037499999998,11
+Uttar Pradesh -> Rajasthan,Uttar Pradesh,Rajasthan,16.5,0.36873590281570123,0.0,34.9656,6
+Uttar Pradesh -> Unknown,Uttar Pradesh,Unknown,109.5,0.9961505120602583,0.25,70.71430625,9
+Uttar Pradesh -> Uttar Pradesh,Uttar Pradesh,Uttar Pradesh,78.25,1.000369475610574,0.3571938296195692,68.46199954629706,541
+Uttar Pradesh -> Uttarakhand,Uttar Pradesh,Uttarakhand,15.0,0.11163997114266946,0.0,90.78566666666666,3
+Uttarakhand -> Haryana,Uttarakhand,Haryana,266.0,0.8533547739966488,1.0,230.40936666666664,13
+Uttarakhand -> Uttarakhand,Uttarakhand,Uttarakhand,82.25,0.6931471805599453,0.24924242424242424,85.0719106060606,101
+West Bengal -> Andhra Pradesh,West Bengal,Andhra Pradesh,381.0,0.7659595360349128,1.0,453.8682,1
+West Bengal -> Assam,West Bengal,Assam,1499.0,1.1586229410064968,1.0,953.6754375,8
+West Bengal -> Haryana,West Bengal,Haryana,853.0,0.6577121186690905,1.0,1084.4037200000002,26
+West Bengal -> Jharkhand,West Bengal,Jharkhand,419.5,0.905570654550413,1.0,396.91110000000003,6
+West Bengal -> Karnataka,West Bengal,Karnataka,1337.0,0.8164756136339336,1.0,1423.2238538461536,13
+West Bengal -> Orissa,West Bengal,Orissa,261.0,0.6076631885677941,1.0,434.459475,4
+West Bengal -> Telangana,West Bengal,Telangana,478.0,0.7450190112667854,1.0,602.4060333333334,9
+West Bengal -> West Bengal,West Bengal,West Bengal,75.25,1.094087370908151,0.2834088584104513,62.406228686348534,610
